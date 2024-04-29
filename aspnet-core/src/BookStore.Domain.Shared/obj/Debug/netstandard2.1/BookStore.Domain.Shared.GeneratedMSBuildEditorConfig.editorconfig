@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = BookStore
+build_property.ProjectDir = D:\FreeLancer\BookStore\aspnet-core\src\BookStore.Domain.Shared\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
